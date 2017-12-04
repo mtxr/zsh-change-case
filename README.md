@@ -49,3 +49,4 @@ In case of trouble, you probably need to unbind <kbd>Ctrl+K</kbd>. Just add this
 bindkey -r '^K'
 ```
 
+![Example](https://github.com/mtxr/zsh-change-case/raw/master/images/example-1.gif?raw=true)
